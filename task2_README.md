@@ -165,12 +165,5 @@ plt.show()
 
 ## Contributors
 
-- [Your Name](https://github.com/smadhiva)
+- [MATHIVANAN S](https://github.com/smadhiva)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Customize this template to fit the specifics of your project, and make sure to include any additional information that may be relevant for users or contributors.
